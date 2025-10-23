@@ -1,10 +1,12 @@
 
 
-[![DOSEfree](https://img.shields.io/badge/DOSEfree-github-blue?logo=github)](https://github.com/DOSEfree)
-
-She is currently an undergraduate student majoring in **Artificial Intelligence** at **Xidian University**, expected to graduate in 2026. Her work focuses on the intersection of **AI systems, multimodal understanding, and intelligent interaction**, bridging academic exploration and real-world applications.\
+She is currently an undergraduate student majoring in **Artificial Intelligence** at **Xidian University**, expected to graduate in 2026. Her work focuses on the intersection of **AI systems, multimodal understanding, and intelligent interaction**, bridging academic exploration and real-world applications.
 
 She is passionate about **LLM-based agents, distributed multimodal learning**, and **human-centered computing**. Her projects cover areas such as **VR behavioral modeling**, **AI speech networking**, and **knowledge graph–driven recommendation systems**.
+
+#### GitHub
+
+[![DOSEfree](https://img.shields.io/badge/DOSEfree-github-blue?logo=github)](https://github.com/DOSEfree)
 
 #### Contact
 
