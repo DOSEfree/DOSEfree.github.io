@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![DOSEfree](https://img.shields.io/badge/DOSEfree-github-blue?logo=github)](https://github.com/DOSEfree)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently an undergraduate student majoring in **Artificial Intelligence** at **Xidian University**, expected to graduate in 2026. Her work focuses on the intersection of **AI systems, multimodal understanding, and intelligent interaction**, bridging academic exploration and real-world applications.\
+
+She is passionate about **LLM-based agents, distributed multimodal learning**, and **human-centered computing**. Her projects cover areas such as **VR behavioral modeling**, **AI speech networking**, and **knowledge graph–driven recommendation systems**.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wangdai_xdu[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Artificial Intelligence, Xidian University, 2022—2026 *(expected)*
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+AI Systems, Multimodal Learning, LLM-based Agents, Intelligent Interaction, Distributed Computing
 
